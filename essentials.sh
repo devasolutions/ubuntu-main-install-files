@@ -2,14 +2,16 @@
 sudo apt update
 sudo apt upgrade
 
+#INSTALL GCC AND G++ FOR C/C++ PROGRAMMING
+sudo apt install g++ gcc -y
 #INSTALL CURL TO GET INFO/DATA FROM WEBSITES
-sudo apt install curl
+sudo apt install curl -y
 
 #INSTALL GIT
-sudo apt install git
+sudo apt install git -y
 
 #INSTALL ZSH AND MAKE IT YOUR DEFAULT SHELL
-sudo apt install ZSH
+sudo apt install ZSH -y
 chsh -s $(which zsh)
 
 #INSTALL OH-MY-ZSH
