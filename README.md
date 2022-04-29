@@ -9,6 +9,7 @@ This repo was created so that people could, with ease, install some essentials w
 Just download the [essentials.sh](./essentials.sh) to your computer and execute it with: `bash ./essentials.sh` and you're done!
 
 ## Recommended Packages in this script
+- g++ and gcc
 - curl
 - git
 - zsh
